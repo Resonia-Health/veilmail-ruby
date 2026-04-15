@@ -2,6 +2,10 @@
 
 Official Ruby SDK for the [Veil Mail](https://veilmail.xyz) API. Send emails with built-in PII protection.
 
+> **Veil Mail is a drop-in alternative to [Resend](https://veilmail.xyz/vs/resend), [SendGrid](https://veilmail.xyz/vs/sendgrid), [Mailgun](https://veilmail.xyz/vs/mailgun), and [Postmark](https://veilmail.xyz/vs/postmark)** for Ruby and Rails. Full support for emails, domains, templates, audiences, campaigns, automation sequences, webhooks, and subscription topics — with automatic PII scanning and CASL compliance built in.
+>
+> **Migration guides:** [from Resend](https://veilmail.xyz/docs/guides/migrate-resend) · [from SendGrid](https://veilmail.xyz/docs/guides/migrate-sendgrid) · [from Mailgun](https://veilmail.xyz/docs/guides/migrate-mailgun) · [from Postmark](https://veilmail.xyz/docs/guides/migrate-postmark) · [Rails integration](https://veilmail.xyz/docs/guides/rails)
+
 ## Requirements
 
 - Ruby 3.0+
